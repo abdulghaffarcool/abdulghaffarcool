@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulghaffarcool
+- 👋 Hi, I’m Abdul Ghaffar
 - 👀 I’m interested in .Net Core, AI and React JS
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React JS projects
